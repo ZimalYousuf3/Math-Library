@@ -1,4 +1,4 @@
-# 🔢 Math Library — C++ OOP Project
+# 🔢 Math Library — C++ OOP 
 
 A simple C++ math library built using **Object-Oriented Programming (OOP)** concepts like inheritance, function overloading, and operator overloading.
 
